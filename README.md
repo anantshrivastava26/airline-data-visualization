@@ -1,6 +1,6 @@
 # ✈️ Airline Flights Data Analysis on Databricks
 
-![Databricks Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Databricks_Logo.png)
+![Databricks Logo]([https://upload.wikimedia.org/wikipedia/commons/4/4e/Databricks_Logo.png](https://www.databricks.com/sites/default/files/2020/04/og-databricks.png))
 
 ## 📌 Overview
 This project performs **data cleaning, transformation, and analysis** on an airline flights dataset using **PySpark** on **Databricks**.
