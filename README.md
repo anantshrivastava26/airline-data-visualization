@@ -1,6 +1,3 @@
----
-
-````markdown
 # ✈️ Airline Flights Data Analysis on Databricks
 
 ![Databricks Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Databricks_Logo.png)
