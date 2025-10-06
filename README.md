@@ -150,8 +150,3 @@ MIT License © 2025 — Anant Shrivastava
 
 ---
 
-```
-
-
-Do you want me to make that **enhanced visual README** next?
-```
